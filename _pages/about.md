@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zihua Niu"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I joined LMU Munich in 2021 to work as a PhD student in Computational Seismology with Prof. Heiner Igel and Prof. Alice-Agnes Gabriel. I am one of the Early Stage Researchers in [SPIN-ITN] (https://spin-itn.eu/) project funded by the European Commission under the Horizon 2020 Marie Sklodowska-Curie Action (MSCA). My research concerns the propagation of mechanical waves in nonlinear materials (theoretical and numerical aspects). In particular, I
+1. provide test data sets to explore sensitivities of various nonlinear rheologies; 
+1. provide wave simulation scenarios across the scales from laboratory (rock), to local (crust), to global scales (incl. mantle); 
+1. use scenario calculations to optimize the experimental design.. This research has various applications in engineering, e.g. in geophysics, biomechanics, nondestructive testing and materials science.
 
 A data-driven personal website
 ======
