@@ -1,6 +1,6 @@
 ---
 title: "Nonlinear wave simulation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<figure> <img src='/images/Modulation.svg' width="400" height="280" alt="Modulation"> <img src='/images/NonlinearEffect.svg' width="400" height="280" alt="NonlinearEffect"> </figure>"
 collection: portfolio
 ---
 
