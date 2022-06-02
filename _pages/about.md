@@ -18,5 +18,7 @@ I joined LMU Munich in 2021 to work as a PhD student in Computational Seismology
 A data-driven personal website
 ======
 
-![Editing a markdown file for a talk](/images/Recovery2.png)
+<figure>
+  <img src='/images/Recovery2.png' width="143" height="143" alt="Recovery">
+</figure>
 
