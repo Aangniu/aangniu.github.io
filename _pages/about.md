@@ -19,6 +19,6 @@ Linear recovery at logrithmic time scale
 ======
 
 <figure>
-  <img src='/images/Rcovery2.svg' width="500" height="350" alt="Recovery">
+  <img src='/images/Rcovery2.svg' width="400" height="280" alt="Recovery">
 </figure>
 
