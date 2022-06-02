@@ -19,6 +19,6 @@ A data-driven personal website
 ======
 
 <figure>
-  <img src='/images/Rcovery2.svg' width="512" height="512" alt="Recovery">
+  <img src='/images/Rcovery2.svg' alt="Recovery">
 </figure>
 
