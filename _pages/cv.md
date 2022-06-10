@@ -15,20 +15,18 @@ Education
 * M.Sc. in Geophysics, ETH Zurich, 2021
 * B.Eng. in Civil Engineering, Tianjin University, 2019
 
-Honors
-======
-* Sept. 2021: Graduate with distinction
-  * ETH Zurich
-
-* July. 2019: Graduate with distinction
-  * Tianjin University
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Honors
+======
+* Sept. 2021: Graduated with distinction from ETH Zurich
+* Sept. 2019 - Sept. 2021: Awarded Master scholarship for two years, ETH Zurich
+* July. 2019: Graduated with distinction from Tianjin University
+
 Talks
 ======
   <ul>{% for post in site.talks %}
