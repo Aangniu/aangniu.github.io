@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Civil Engineering, Tianjin University, 2019
-* M.Sc. in Geophysics, ETH Zurich, 2021
 * Ph.D in Computational Seismology, LMU Munich, Present
+* M.Sc. in Geophysics, ETH Zurich, 2021
+* B.Eng. in Civil Engineering, Tianjin University, 2019
 
 Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept. 2021: Graduate with distinction
+  * ETH Zurich
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July. 2019: Graduate with distinction
+  * Tianjin University
 
 Publications
 ======
