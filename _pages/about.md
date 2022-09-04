@@ -19,6 +19,6 @@ Slow dynamics: Linear recovery at logrithmic time scale
 ======
 
 <figure>
-  <img src='/images/Rcovery2.jpg' "50%" alt="Recovery"/>
+  <img src='/images/Rcovery2.jpg' alt="Recovery" width="50%"/>
 </figure>
 
