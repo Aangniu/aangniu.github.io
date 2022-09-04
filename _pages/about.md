@@ -15,7 +15,7 @@ I joined LMU Munich in 2021 as a PhD student in Computational Seismology under t
 1. provide wave simulation scenarios across the scales from laboratory (rock), to engineering structures (buildings and bridges), to field (crust); 
 1. use scenario calculations to optimize the experimental design. 
 
-Linear recovery at logrithmic time scale
+Slow dynamics: Linear recovery at logrithmic time scale
 ======
 
 <figure>
