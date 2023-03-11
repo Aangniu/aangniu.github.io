@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computational Seismology, LMU Munich, Present
+  * Research visit at GFZ, Potsdam from 02.2023 to 03.2023. Hosted by Dr. Christoph Sens-sch\"onfelder  
 * M.Sc. in Geophysics, ETH Zurich, 2021
 * B.Eng. in Civil Engineering, Tianjin University, 2019
 
