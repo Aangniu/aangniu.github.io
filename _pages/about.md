@@ -18,8 +18,19 @@ I joined LMU Munich in 2021 as a PhD student in Computational Seismology under t
 Scalable nonlinear wave propagation solver in 3D
 ======
 
+3D simulation of earthquakes from fault rupture to the sedimentary basin, considering heterogeneous rocks, surface topography, and nonlinear mechanical rock and soil models.
+
 <figure>
-  <img src='/images/planeWave3D.png' alt="Recovery" width="50%"/>
+  <img src='/images/kathmanduZoomVz.png' alt="Recovery" width="50%"/>
+</figure>
+
+Nonlinear rock and soil models: nonlinear effects in earthquakes from source to site
+======
+
+Softening of saturated soil sample under undrained cyclic loading (data on the left and simulation on the right)
+
+<figure>
+  <img src='/images/soil.png' alt="Recovery" width="50%"/>
 </figure>
 
 Slow dynamics: Linear recovery at logrithmic time scale
