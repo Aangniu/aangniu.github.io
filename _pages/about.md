@@ -30,13 +30,13 @@ Nonlinear rock and soil models: nonlinear effects in earthquakes from source to 
 Softening of saturated soil sample under undrained cyclic loading (data on the left and simulation on the right)
 
 <figure>
-  <img src='/images/soil.png' alt="Recovery" width="50%"/>
+  <img src='/images/soil.png' alt="Recovery" width="70%"/>
 </figure>
 
 Slow dynamics: Linear recovery at logrithmic time scale
 ======
 
 <figure>
-  <img src='/images/Rcovery2.jpg' alt="Recovery" width="50%"/>
+  <img src='/images/Rcovery2.jpg' alt="Recovery" width="30%"/>
 </figure>
 
