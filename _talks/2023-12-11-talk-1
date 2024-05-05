@@ -1,0 +1,16 @@
+---
+title: "Modeling co-seismic wave speed changes of rocks"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-12-11-talk-1
+venue: "AGU: 2023"
+date: 2023-12-11
+location: "San Francisco, USA"
+---
+
+3D simulation of co-seismic wave speed changes in rock from source to site
+* Simulation Mw 7.8 Gorkha Earthquake in 2015.
+* Understand basin effects with different types of rheology: elastic, visco-elastic, plastic and nonlinear damage models.
+* Account for finite earthquake source, heterogeneous velocity structure, surface topography, basin geometry, etc.
+
+You are welcome to access my presentation [here](https://agu23.ipostersessions.com/?s=88-00-90-49-15-E7-2D-C2-21-26-7D-1D-2F-38-44-CB).
