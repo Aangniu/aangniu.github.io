@@ -17,6 +17,7 @@ I joined LMU Munich in 2021 as a PhD student in Computational Seismology under t
 1. use scenario calculations to optimize the experimental design. 
 
 <video src='https://youtu.be/LIeW93mAi98' width=180/>
+</video>
 
 Scalable nonlinear wave propagation solver in 3D
 ======
